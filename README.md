@@ -9,8 +9,6 @@ Some of my key skills include - React Native, React, Bootstrap, JavaScript, PHP,
 -->
 
 - 💬 Ask me about anything!
-- 🔭 I’m currently working on something secret! ;)
-- 🌱 I’m currently learning React.
 - 📫 Reach out to me: manavendra4288@gmail.com
 - 💻 Check out my website: https://www.mavn.live
 - ⚡ Fun fact: I like Pokemon and know mostly all 800+ of em.
