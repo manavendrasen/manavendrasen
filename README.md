@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a Apspiring Full Stack MERN deveoper. I enjoy desiging and developing fun and webapps. I have experience working with a range of different languagesa nd frameworks and I am always looking for opportunities to work on something new.
+I am a Apspiring Full Stack MERN deveoper. I enjoy desiging and developing interesting webapps. I have experience working with a range of different languagesa nd frameworks and I am always looking for opportunities to work on something new.
 
-Some of my key skills include - React Native, React, Bootstrap, JavaScript, PHP, Python and C++
+Some of my key skills include - React, Bootstrap, JavaScript, MySQL, NoSQL, Python, C++, Photoshop and Adobe XD .
 
 <!--
 **manavendrasen/manavendrasen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
