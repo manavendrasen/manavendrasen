@@ -11,6 +11,6 @@ Some of my key skills include - React, Bootstrap, JavaScript, MySQL, NoSQL, Pyth
 
 - 💬 Ask me about anything!
 - 📫 Reach out to me: manavendra4288@gmail.com
-- 💻 Check out my website: https://www.mavn.live
+- 💻 Check out my website: manavendsen.herokuapp.com
 - ⚡ Fun fact: I like Pokemon and know mostly all 800+ of em.
 
