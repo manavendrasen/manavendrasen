@@ -10,7 +10,7 @@ Some of my key skills include - React, JavaScript, MySQL, NoSQL, Python, Java, C
 -->
 
 - 💬 Ask me about anything!
-- 📫 Reach out to me: manavendra4288@gmail.com
-- 💻 Check out my website: https://manavendra.herokuapp.com
+- 📫 Reach out to me: [manavendra4288@gmail.com](mailto:manavendra4288@gmail.com)
+- 💻 Check out my website: [manavendrasen.co](https://manavendrasen.co/)
 - ⚡ Fun fact: I like Pokemon and know mostly all 800+ of em.
 
