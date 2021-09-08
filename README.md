@@ -9,7 +9,7 @@ Some of my key skills include - React, JavaScript, MySQL, NoSQL, Python, Java, C
 **manavendrasen/manavendrasen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![Manavendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=manavendra)](https://github.com/manavendra)
+[![Manavendra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manavendrasen)](https://github.com/manavendrasen)
 
 
 - 💬 Ask me about anything!
