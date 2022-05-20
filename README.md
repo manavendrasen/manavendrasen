@@ -1,11 +1,14 @@
 ### Hi there 👋
 
 My name is Manavendra Sen.
-I am a Full Stack Developer and UIUX Designer from India 🇮🇳. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new.
+I am a Full Stack Developer and UIUX Designer from India 🇮🇳. 
+I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new and exciting.
+
+✨ Incoming Summer Intern 2022 at Dell Technologies
 
 - **Skills**: React, Typescript, JavaScript, MySQL, NoSQL, Python, Java, C++, Photoshop, Figma, Adobe XD.
 - **Currently Exploring**: Kotlin and Solidity.
-- **Interested in**: Web3, Blockchain, DevOps, Web Development, App Development
+- **Interested in**: Web3, Blockchain, DevOps, Web Development, App Development.
 
 <br/>
 <!-- [![Manavendra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manavendrasen)](https://github.com/manavendrasen) -->
