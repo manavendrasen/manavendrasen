@@ -10,10 +10,10 @@ I have experience working with a range of different languages and frameworks and
 
 <br/>
 <!-- [![Manavendra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manavendrasen)](https://github.com/manavendrasen) -->
-<a href="https://github.com/anuraghazra/github-readme-stats" style="margin=16px">
+<a href="" style="margin=16px">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=manavendrasen&show_icons=false&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat" style="margin=16px">
+<a href="" style="margin=16px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=manavendrasen&layout=compact&theme=github-dark&langs_count=8" />
 </a>
 
