@@ -20,6 +20,8 @@ I have experience working with a range of different languages and frameworks and
 <hr/>
 
 📫 Reach out to me: 
-- 🚀 Email: [manavendrasen@outlook.com](mailto:manavendrasen@outlook.com)
+- ✨ Website: [manavendrasen.com](https://manavendrasen.com)
+- 📃 Resume: [manavendrasen.com/resume](https://manavendrasen.com/resume)
+- 🚀 Email: [manavendra4288@gmail.com](mailto:manavendra4288@gmail.com)
 - 🤝 Linkedin: [linkedin.com/in/manavendrasen](https://www.linkedin.com/in/manavendrasen/)
-- 💚 Peerlist: [peerlist.io/manavendrasen](https://peerlist.io/manavendrasen)
+
